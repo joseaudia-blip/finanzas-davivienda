@@ -4722,5 +4722,47 @@
     "categoria": "Otros",
     "monto": 2.95,
     "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-03",
+    "comercio": "ALISS PACIFIC CENTER",
+    "categoria": "Otros",
+    "monto": 125.07,
+    "tarjeta": "Davivienda 9337"
+  },
+  {
+    "fecha": "2026-09-03",
+    "comercio": "AL VECCHIO FORNO",
+    "categoria": "Restaurantes",
+    "monto": 53.82,
+    "tarjeta": "Davivienda 9337"
+  },
+  {
+    "fecha": "2026-09-03",
+    "comercio": "DLC* UBER RIDES",
+    "categoria": "Transporte",
+    "monto": 6.87,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-03",
+    "comercio": "DLC* UBER RIDES",
+    "categoria": "Transporte",
+    "monto": 3.02,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-03",
+    "comercio": "CAFE NETO SUCURSAL 1",
+    "categoria": "Otros",
+    "monto": 2.97,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-03",
+    "comercio": "RIBA SMITH MULTIPLAZA",
+    "categoria": "Supermercado",
+    "monto": 50.92,
+    "tarjeta": "Davivienda 4162"
   }
 ]
