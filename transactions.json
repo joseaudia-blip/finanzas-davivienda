@@ -4764,5 +4764,47 @@
     "categoria": "Supermercado",
     "monto": 50.92,
     "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-07",
+    "comercio": "DISFRUTA MARKET",
+    "categoria": "Supermercado",
+    "monto": 2.6,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-06",
+    "comercio": "PAYPAL *SHOPIFY",
+    "categoria": "Otros",
+    "monto": 18.99,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-06",
+    "comercio": "RIBA SMITH COSTA DEL ESTE",
+    "categoria": "Supermercado",
+    "monto": 26.33,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-06",
+    "comercio": "LA CASA DEL JAMON",
+    "categoria": "Otros",
+    "monto": 66.3,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-06",
+    "comercio": "ANTHROPIC* CLAUDE SUB",
+    "categoria": "Otros",
+    "monto": 20.0,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-06",
+    "comercio": "REST FANTASTIC LOS PUEBLO",
+    "categoria": "Otros",
+    "monto": 27.75,
+    "tarjeta": "Davivienda 4162"
   }
 ]
