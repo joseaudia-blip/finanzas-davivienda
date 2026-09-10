@@ -4797,7 +4797,7 @@
     "fecha": "2026-09-06",
     "comercio": "ANTHROPIC* CLAUDE SUB",
     "categoria": "Otros",
-    "monto": 20.0,
+    "monto": 20,
     "tarjeta": "Davivienda 4162"
   },
   {
@@ -4805,6 +4805,27 @@
     "comercio": "REST FANTASTIC LOS PUEBLO",
     "categoria": "Otros",
     "monto": 27.75,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-08",
+    "comercio": "FARMACIA PUNTA PACIFICA",
+    "categoria": "Farmacia",
+    "monto": 28.56,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-08",
+    "comercio": "SUPER 99 PAITILLA",
+    "categoria": "Otros",
+    "monto": 27.6,
+    "tarjeta": "Davivienda 4162"
+  },
+  {
+    "fecha": "2026-09-08",
+    "comercio": "AMERICAN PETS PAITILLA",
+    "categoria": "Mascotas",
+    "monto": 13.32,
     "tarjeta": "Davivienda 4162"
   }
 ]
